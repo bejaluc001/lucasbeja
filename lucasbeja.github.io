@@ -4,7 +4,6 @@
 
   <h1 style="text-align:center;font-family:signpainter;">My name is Lucas Beja, welcome to my site! </h1>
 
-<center><img src="image.JPG" width="400" height="266">
   
 <b><h1 style="text-align:center;font-family:signpainter;font-style:bold;> align="center"> About Me </h1>
 
@@ -15,7 +14,7 @@
   
 <p style="text-align: center;font-family:heiti sc;"><a href="https://www.netflix.com/browse">Click Here</a> to see Netflix!</p>
   
-<body bgcolor="Orange">
+<body bgcolor="LIghtSkyBlue">
 
 </body>
 
